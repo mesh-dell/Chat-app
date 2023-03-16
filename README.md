@@ -1,2 +1,2 @@
 # Chat-app
-Simple chat app in kotlin
+Simple chat app in kotlin using Firebase
