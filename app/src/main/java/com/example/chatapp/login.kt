@@ -34,7 +34,7 @@ class login : AppCompatActivity() {
             val email = edtEmail.text.toString()
             val password = edtPassword.toString()
 
-            logIn(email,password)
+            logIn(email,password);
         }
     }
 
